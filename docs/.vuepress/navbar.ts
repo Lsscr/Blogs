@@ -32,6 +32,11 @@ export default navbar([
     ],
   },
   {
+    text: 'Algorithm',
+    icon: 'page',
+    link: '/Algorithm/'
+  },
+  {
     text:'other',
     icon:'edit',
     prefix: '/other/',

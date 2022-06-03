@@ -4,6 +4,7 @@ export default sidebar({
   "/other/guide/" : "structure",
   "/posts/Vue2.X/" : "structure",
   "/posts/NodeJS/" : "structure",
+  "/Algorithm/":"structure",
   '/other/':[{
     text: 'Other',
     prefix:'/other/',
